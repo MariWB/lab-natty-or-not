@@ -24,13 +24,19 @@ Este projeto é um fork de uma atividade na **Formação em Fundamentos de Intel
 Com a finalidade de explorar IAs para criar um material o mais realista possível.
 
 ### 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Áudio: Discussão em formato podcast criada pelo NotebookLM após a leitura do livro em PDF.
+Imagem: ChatGPT
+Criação e tradução do texto: ChatGPT
+Vídeo editado com: HitPaw Edimakor
+Música: gerada pelo HitPaw Edimakor
 
 ### 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Após alimentar a base de conhecimento do NotebookLM, o podcast foi gerado a partir da própria ferramenta.
+O vídeo foi editado com a principio com a ferramenta de geração de vídeos com ia do HitPaw, mas por falta de resultados que atingissem a expectativa, a edição acabou sendo manual, preservando apenas a redomencação da musica.
 
 ### 🚀 Resultados
-Apresente os resultados do seu projeto
+[Link do Youtube](https://youtu.be/dlI_chi9pmI)
 
 ### 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Tem se tornado cada vez mais fácil, porem a usabilidade na configuração de algumas ferramentas torna difícil alcançar o objetivo esperado.
+Acredito que na nova geração que fomos introduzidos, haverá a grande necessidade de adaptação e estudo de conhecimentos básicos das novas tecnologias como parte evolutiva das tecnologias e profissiões. 
