@@ -3,7 +3,7 @@
 <img
 	align="left"
 	alt="Paper Theories"
-	height="250"
+	height="300"
 	style="padding-right: 10px;"
 	src="https://github.com/MariWB/lab-natty-or-not/blob/5199e742283967ff1e2ad4d333048a0456b8eb3c/Cover%20Podcast.jpg"
 />
